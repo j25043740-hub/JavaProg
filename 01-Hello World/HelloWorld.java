@@ -12,6 +12,5 @@ public class HelloWorld {
 		System.out.println("Course Name: Object-Oriented PROGRAMMING IN JAVA I");
 		System.out.println("Course Code: CSC200");
 		System.out.println("Lecturer Name: SATHISH SARMA");
-	}
     }
 }
